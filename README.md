@@ -28,3 +28,18 @@ ___
 
 > “Clarity builds alignment. Alignment builds access. Access shapes possibility.”  
 > — Alesh Ancira
+
+---
+
+## 🔗 Related Work
+
+- [AI Infrastructure Supply Framework](https://github.com/aleshancira/-ai-infrastructure-supply-model)
+
+---
+
+## 📖 License
+
+This work is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** License.  
+You are free to share and adapt the material for any purpose, even commercially, under the terms of attribution.  
+[View Full License →](https://creativecommons.org/licenses/by/4.0/)
+
